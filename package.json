@@ -1,0 +1,25 @@
+{
+	"name": "framer-motion-variants",
+	"description": "Elevate your React animations with a collection of pre-built variants for Framer Motion.",
+	"version": "0.0.1",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"repository": {
+		"url": "https://github.com/surendra-manjhi/framer-motion-variants"
+	},
+	"scripts": {
+		"build": "tsup"
+	},
+	"keywords": [
+		"react",
+		"variants",
+		"framer motion"
+	],
+	"author": "manjhss",
+	"license": "MIT",
+	"devDependencies": {
+		"tsup": "^8.1.0",
+		"typescript": "^5.5.3"
+	}
+}
