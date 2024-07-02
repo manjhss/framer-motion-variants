@@ -1,21 +1,21 @@
-### **Framer Motion Variants - Effortless Animations (framer-motion-variants)**
+## **Framer Motion Variants - Effortless Animations (framer-motion-variants)**
 
-Boost your React animations with a collection of pre-built variants for Framer Motion. This package empowers you to create stunning animations effortlessly, saving you development time and ensuring visual consistency across your project.
+**Boost your React animations with a collection of pre-built variants for Framer Motion. This package empowers you to create stunning animations effortlessly, saving you development time and ensuring visual consistency across your project.**
 
-**Key Features:**
+### **Key Features**
 
 -   Ready-to-use Variants
 -   Built for Reusability
 
-**Get Started:**
+### **Get Started**
 
-Installation:
+**Installation**
 
 ```bash
 npm install framer-motion framer-motion-variants
 ```
 
-Usage:
+**Usage**
 
 1. Import `motion` and `fadeIn` variant from their packages:
 
