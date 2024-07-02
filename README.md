@@ -28,10 +28,10 @@ import { fadeIn } from "framer-motion-variants";
 
 ```tsx
 const MyComponent = () => {
-	return (
-		<motion.div variants={fadeIn}>
-			{/* Your component content */}
-		</motion.div>
-	);
+    return (
+       <motion.div variants={fadeIn}>
+          {/* Your component content */}
+       </motion.div>
+    );
 };
 ```
