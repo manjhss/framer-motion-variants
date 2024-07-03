@@ -22,7 +22,7 @@ export const parentFadeIn = {
 	},
 };
 
-export const childLeftFadeIn = {
+export const leftFadeIn = {
 	initial: {
 		x: -20,
 		opacity: 0,
