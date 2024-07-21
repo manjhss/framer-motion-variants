@@ -1,7 +1,7 @@
 {
 	"name": "framer-motion-variants",
 	"description": "Boost your React animations with a collection of pre-built variants for Framer Motion.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
 	"types": "./dist/index.d.ts",
