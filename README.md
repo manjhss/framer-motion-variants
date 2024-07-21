@@ -2,7 +2,7 @@
 
 **Boost your React animations with a collection of pre-built variants for Framer Motion. This package empowers you to create stunning animations effortlessly, saving you development time and ensuring visual consistency across your project.**
 
-https://github.com/surendra-manjhi/framer-motion-variants/assets/121970162/1ddc7622-0929-4314-9a67-10c0f21bf616
+[![Watch the video](logo.png)](https://github.com/surendra-manjhi/framer-motion-variants/assets/121970162/1ddc7622-0929-4314-9a67-10c0f21bf616)
 
 ### **Key Features**
 
